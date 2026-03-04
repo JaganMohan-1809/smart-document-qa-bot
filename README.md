@@ -1,0 +1,1 @@
+Smart_Document_QA_Bot\Scripts\activate 

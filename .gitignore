@@ -1,0 +1,5 @@
+Smart_Document_QA_Bot/
+.env
+__pycache__/
+*.pyc
+logs/
